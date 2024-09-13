@@ -1,4 +1,4 @@
-# Project Name
+# Employee Portal
 
 ## Technologies
 
